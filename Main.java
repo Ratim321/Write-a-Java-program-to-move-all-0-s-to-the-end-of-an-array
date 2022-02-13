@@ -44,9 +44,7 @@ public class Main {
                 }
             }
         }
-        System.out.println(len);
-
-        System.out.println(ar.length);
+       
 
 
         for (int i = 0; i < ar.length; i++) {
